@@ -1,22 +1,21 @@
 header nav div {
-      display: inline-block;
-
-}
-
-.fa-bars 
-
-.center-nav {
-    margin-left: 300px;
-    margin-right: 300px;
-    
+    display: initial block;
 }
 
 .fa-bars {
     margin-right: 20px;
+    }
 
+    * {
+        /* border: 1PX solid black; */
+    }
+
+.center-nav {
+    margin-left: 500px;
+    margin-right: 500px;
 }
 
-.bold {
+.blod {
     font-weight: bold;
 }
 
@@ -25,8 +24,6 @@ header nav div {
     padding: 5px;
     margin: 0;
 }
-
-
 
 input {
     border: none;
@@ -37,28 +34,19 @@ input {
 .lupacha {
     padding: 6.5px 20px 5px;
     margin-left: -4px;
-    
-}
 
+}
 .fa-microphone {
     margin-left: 10px;
 }
-
 .right-nav i {
-    margin: 10px; 
-    
-
+    margin-top: 10px;
 }
 
-.right-nav {
-margin-left: 400px;
-}
-main  {
+main {
     margin-top: 30px;
     
-
 }
-
 .video {
     width: 900px;
     height: 400px;
@@ -95,8 +83,6 @@ padding: 20px;
 /* text-decoration: underline; */
 width: 900px;
 display: inline-block;
-background-color: bisque;
-float: left;
 }
 
 
@@ -118,7 +104,13 @@ float: left;
 }
     
 
+}
 
+}
+
+* {
+    /* border: 1px solid black; */
+}
 footer div img  {
     float: left;
     border-radius: 50px;
@@ -137,12 +129,11 @@ footer div img  {
 
 }
 
-.shaha {
+.bbutton {
     padding: 10px 30px;
     background-color: red;
     color: white;
     text-transform: inherit;
-    margin-left: 300px;
 }
 
 span {
@@ -153,84 +144,4 @@ span {
 .seriy {
     color: #606060;
 }
-
-aside {
-    background-color: aquamarine;
-    height: 50px;
-    float: right;
-    width: 350px;
-    padding: 20px;
-    margin-top: 30px;
-}
-.rasm-tekst {
-    width: 350px ;
-    float: left;
-}
-.rasm {
-    width: 50px;
-    float: left;
-    
-}
-
-.tekst {
-    width: 280px;
-    float: right;
-}
-
-.rasm img {
-    border-radius: 50%;
-    margin-top: 10px;
-}
-.yozuv {
-    margin-bottom: 0;
-}
-
-.yozuv-2 {
-    margin-top: 0;
-}
-
-.bottonn {
-    float: right;
-    margin-top: 30px;
-
-    
-}
-.bottonn button {
-    padding: 5px 10px;
-    background-color: red;
-    color: white;
-    text-transform: uppercase;
-    border: none;
-}
-
-.yozuvlar {
-    clear: both;
-}
-
-.yozuvlar {
-    margin-left: 70px;
-}
-
-.div_glavniy {
-    border-bottom: 1px solid #606060;
-    border-top: 1px solid #606060;
-    clear: both;
-    
-}
-
-* {
-    /* border: 1px solid black; */
-}
-
-
-
-
-
-
-
-
-
-
-
-
 
